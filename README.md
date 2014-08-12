@@ -11,3 +11,5 @@ git clone https://github.com/calin-seciu/github-api.git
 cd github-api
 npm install
 ```
+
+An OAuth token is required and should be placed in the ./token.js file.
