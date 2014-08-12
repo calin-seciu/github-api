@@ -1,0 +1,7 @@
+{
+    "name": "github-api",
+    "version": "0.0.1",
+    "dependencies": {
+        "github": ""
+    }
+}
