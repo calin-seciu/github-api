@@ -8,6 +8,6 @@ Eg. add the 'user-forms' label for all issues in the [imb](https://github.com/si
 
 ```sh
 git clone https://github.com/calin-seciu/github-api.git
-cd node-github
+cd github-api
 npm install
 ```
